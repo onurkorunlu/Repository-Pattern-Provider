@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPP.Core", "RPP.Core\RPP.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPP.Mongo", "RPP.Mongo\RPP.Mongo.csproj", "{F183CDE0-D012-4848-B041-C6F6AEEB3464}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPP.ConsoleApp", "RPP.ConsoleApp\RPP.ConsoleApp.csproj", "{B98BB04F-0DA9-4116-857A-88A67FFBA44A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F183CDE0-D012-4848-B041-C6F6AEEB3464}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F183CDE0-D012-4848-B041-C6F6AEEB3464}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F183CDE0-D012-4848-B041-C6F6AEEB3464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B98BB04F-0DA9-4116-857A-88A67FFBA44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98BB04F-0DA9-4116-857A-88A67FFBA44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98BB04F-0DA9-4116-857A-88A67FFBA44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98BB04F-0DA9-4116-857A-88A67FFBA44A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
